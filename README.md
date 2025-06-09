@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **React, Redux**
+ 🌱 I’m currently learning **Next.js**
 
 💬 Ask me about **HTML, CSS, JAVASCRIPT... or anything [here](https://github.com/AnasAzizi)**
 
